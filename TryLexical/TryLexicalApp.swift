@@ -1,10 +1,3 @@
-//
-//  TryLexicalApp.swift
-//  TryLexical
-//
-//  Created by Oleg Bask on 3/9/24.
-//
-
 import SwiftUI
 
 @main

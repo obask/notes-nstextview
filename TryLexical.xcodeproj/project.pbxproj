@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C9348A42CD1A40600FDDC3C /* RichTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9348A32CD1A40600FDDC3C /* RichTextView.swift */; };
 		7CA5321E2B9D9926003B9F3D /* TryLexicalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA5321D2B9D9926003B9F3D /* TryLexicalApp.swift */; };
 		7CA532202B9D9926003B9F3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA5321F2B9D9926003B9F3D /* ContentView.swift */; };
 		7CA532222B9D9927003B9F3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CA532212B9D9927003B9F3D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C9348A32CD1A40600FDDC3C /* RichTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichTextView.swift; sourceTree = "<group>"; };
 		7CA5321A2B9D9926003B9F3D /* TryLexical.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TryLexical.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CA5321D2B9D9926003B9F3D /* TryLexicalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryLexicalApp.swift; sourceTree = "<group>"; };
 		7CA5321F2B9D9926003B9F3D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				7CA5321D2B9D9926003B9F3D /* TryLexicalApp.swift */,
 				7CA5321F2B9D9926003B9F3D /* ContentView.swift */,
+				7C9348A32CD1A40600FDDC3C /* RichTextView.swift */,
 				7CA532212B9D9927003B9F3D /* Assets.xcassets */,
 				7CA532262B9D9927003B9F3D /* TryLexical.entitlements */,
 				7CA532232B9D9927003B9F3D /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				7CA532202B9D9926003B9F3D /* ContentView.swift in Sources */,
 				7CA5321E2B9D9926003B9F3D /* TryLexicalApp.swift in Sources */,
+				7C9348A42CD1A40600FDDC3C /* RichTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
